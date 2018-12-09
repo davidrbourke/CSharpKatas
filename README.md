@@ -1,3 +1,10 @@
-# Katas
+# CSharpKatas
 
-Some code kata solutions to katas set from codewars.com.
+Attempts to complete various code katas in C#.
+
+- DiscoverPIN
+- SortTheOdd
+- InPlaceReverseWords
+- PileOfCubes
+- SpinningWords
+- TennisScoring
